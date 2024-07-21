@@ -6,10 +6,14 @@ for num in range (4,999):
         #print(num, divisor, sum,sum - num )
         if num % divisor == 0:
             break
+        #Checks to see if number is composite/has other factors.
         if num % divisor != 0 and divisor == (int(num**.5)):
+        #
               sum = sum + num 
               print(num, sum)
         #else:
             #sum = sum + num
+            
+
 
 
