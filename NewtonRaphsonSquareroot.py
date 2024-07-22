@@ -29,4 +29,3 @@ else:
 x1_root = ans
 print(x1_root)
 # THIS PROGRAMS OUTPUTS ARE VERY VERY WEIRD 
-
