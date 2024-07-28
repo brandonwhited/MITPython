@@ -11,3 +11,8 @@ def multiply(x, y = None):
         print(x)
         
 multiply(5,3)
+
+def mean(*args):
+    print(sum(args) / len(args))
+    
+mean(1,2,3,4,5)

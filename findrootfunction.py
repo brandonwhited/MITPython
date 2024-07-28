@@ -31,5 +31,3 @@ print(is_in('hello', 'hello world'))
 # as arguments and returns True if either string occurs 
 # anywhere in the other, and False otherwise. 
 # Hint: you might want to use the built-in str operator in.
-
-def test_is_in():
